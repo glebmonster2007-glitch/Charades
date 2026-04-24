@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Answer": "кот",
+    "Points": 5,
+    "Difficulty": "Easy",
+    "Images": [ "Images/cat.png" ]
+  },
+  {
+    "Answer": "дом",
+    "Points": 5,
+    "Difficulty": "Easy",
+    "Images": [ "Images/house.png" ]
+  },
+  {
+    "Answer": "машина",
+    "Points": 10,
+    "Difficulty": "Medium",
+    "Images": [ "Images/weel.png", "Images/road.png" ]
+  },
+  {
+    "Answer": "птица",
+    "Points": 15,
+    "Difficulty": "Hard",
+    "Images": [ "Images/pero.png", "Images/sky.png", "Images/wind.png" ]
+  }
+]
